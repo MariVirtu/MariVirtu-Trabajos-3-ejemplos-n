@@ -2,5 +2,5 @@
 
 #Trabajo
 
-[Animal css] ( https://marivirtu.github.io/Animal-css/)
-[Llapis] (https://marivirtu.github.io/Llapis-css/)
+[Llapis](https://marivirtu.github.io/Llapis-css/)
+[Animal css](https://marivirtu.github.io/Animal-css/)
